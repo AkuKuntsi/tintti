@@ -2,7 +2,7 @@
 # Tietokone ja Internet (Tintti), Ryhmä Kuskusmuisti
 
 
-### Nimeämiskäyttännöt
+### Nimeämiskäytännöt
 
 Jos haluat lisätä omia erillisiä toteutuksia, lisää ne esim. omiin hakemistoihin :)
 
